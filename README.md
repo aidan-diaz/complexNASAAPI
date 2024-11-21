@@ -1,8 +1,8 @@
 # Complex NASA API
 
-![Thumbnail](https://nasaapilocations.netlify.app/)
+![Thumbnail](css/assets/thumbnail.png)
 
-Link to project: (https://simpletodolisttracker.netlify.app/)
+Link to project: (https://nasaapilocations.netlify.app/)
 
 
 ## How It's Made:
